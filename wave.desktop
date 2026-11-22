@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Wave
+GenericName=Music Player
+Comment=Лёгкий плеер: SoundCloud, YouTube, персональная волна
+Exec=wave
+Icon=multimedia-audio-player
+Terminal=false
+Categories=AudioVideo;Audio;Player;
+Keywords=music;audio;soundcloud;youtube;player;музыка;плеер;
+StartupWMClass=dev.local.Wave

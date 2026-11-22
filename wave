@@ -1,0 +1,3 @@
+#!/bin/sh
+# Запуск Wave из любого места (симлинки тоже работают)
+exec python3 "$(dirname "$(readlink -f "$0")")/wave.py" "$@"
